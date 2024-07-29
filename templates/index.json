@@ -9,6 +9,12 @@
 */
 {
   "sections": {
+    "image_banner_new_8TagPh": {
+      "type": "image-banner-new",
+      "settings": {
+        "banner_image": "shopify:\/\/shop_images\/someslight-banner-min.png"
+      }
+    },
     "featured_collection": {
       "type": "featured-collection",
       "settings": {
@@ -39,6 +45,7 @@
     }
   },
   "order": [
+    "image_banner_new_8TagPh",
     "featured_collection"
   ]
 }
