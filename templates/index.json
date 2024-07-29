@@ -9,65 +9,43 @@
 */
 {
   "sections": {
-    "image_banner_new_8TagPh": {
-      "type": "image-banner-new",
+    "image_banner": {
+      "type": "image-banner",
       "blocks": {
-        "reviews_ABxF9g": {
-          "type": "reviews",
-          "settings": {
-            "review-text": "Rated 4.8 By Thousands Of Happy Otakus"
-          }
-        },
-        "heading_VC4jWG": {
+        "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Buy 3 Get 1 FREE"
+            "heading": "Browse our latest products",
+            "heading_size": "h0"
           }
         },
-        "subheading_YXi7Ed": {
-          "type": "subheading",
+        "button": {
+          "type": "buttons",
           "settings": {
-            "subheading": "Your Favorite Anime Shorts",
-            "subheading_color": "#000000",
-            "background_color": "#ffa500"
-          }
-        },
-        "image_carousel_Mw3fQf": {
-          "type": "image_carousel",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Rectangle_26.png"
-          }
-        },
-        "image_carousel_EnTpY8": {
-          "type": "image_carousel",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Rectangle_30.png"
-          }
-        },
-        "image_carousel_BdqKTj": {
-          "type": "image_carousel",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Rectangle_28.png"
-          }
-        },
-        "heading_AYhD3M": {
-          "type": "heading",
-          "settings": {
-            "heading": "Heading"
+            "button_label_1": "Shop all",
+            "button_link_1": "shopify:\/\/collections\/all",
+            "button_style_secondary_1": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
           }
         }
       },
       "block_order": [
-        "reviews_ABxF9g",
-        "heading_VC4jWG",
-        "subheading_YXi7Ed",
-        "image_carousel_Mw3fQf",
-        "image_carousel_EnTpY8",
-        "image_carousel_BdqKTj",
-        "heading_AYhD3M"
+        "heading",
+        "button"
       ],
       "settings": {
-        "banner_image": "shopify:\/\/shop_images\/someslight-banner.png"
+        "image_overlay_opacity": 40,
+        "image_height": "large",
+        "desktop_content_position": "bottom-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "scheme-3",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": false
       }
     },
     "featured_collection": {
@@ -100,7 +78,7 @@
     }
   },
   "order": [
-    "image_banner_new_8TagPh",
+    "image_banner",
     "featured_collection"
   ]
 }
