@@ -28,7 +28,7 @@
           "type": "subheading",
           "settings": {
             "subheading": "Your Favorite Anime Shorts",
-            "subheading_color": "#ffffff",
+            "subheading_color": "#000000",
             "background_color": "#ffa500"
           }
         }
