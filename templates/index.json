@@ -17,10 +17,17 @@
           "settings": {
             "review-text": "Rated 4.8 By Thousands Of Happy Otakus"
           }
+        },
+        "heading_VC4jWG": {
+          "type": "heading",
+          "settings": {
+            "heading": "Buy 3 Get 1 FREE"
+          }
         }
       },
       "block_order": [
-        "reviews_ABxF9g"
+        "reviews_ABxF9g",
+        "heading_VC4jWG"
       ],
       "settings": {
         "banner_image": "shopify:\/\/shop_images\/someslight-banner.png"
