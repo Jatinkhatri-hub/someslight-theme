@@ -33,15 +33,13 @@
           </h3>
         {% when 'image_carousel' %}
           {% if image_carousel_started == false %}
-          {}
             <div class="banner__review-image-carousel">
+            {% assign image_carousel_started = true %}
           {% endif %}
             <div class="banner__review-img-wrapper">
               <img src="{{ block.settings.image |  img_url: 'medium' }}" class="banner__review-img" >
             </div>
-          {% if forloop.last %}
-            </div>
-          {% endif %}
+          
       {% endcase %}
     {% endfor %}
 
