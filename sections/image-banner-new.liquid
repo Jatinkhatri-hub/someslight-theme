@@ -12,7 +12,7 @@
 
     {% for block in section.blocks %}
       {% if block.type == 'image_carousel' and image_carousel_started == false %}
-        <div class="">
+        <div class="swiper mySwiper mySwiper-{{}}">
         <div class="banner__review-image-carousel">
         {% assign image_carousel_started = true %}
       {% endif %}
