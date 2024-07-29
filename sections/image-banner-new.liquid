@@ -13,12 +13,12 @@
     {% for block in section.blocks %}
       {% if block.type == 'image' and image_carousel_started == false %}
         <div class="image-carousel">
-      {% assign image_carousel_started = true %}
-    {% endif %}
+        {% assign image_carousel_started = true %}
+      {% endif %}
 
-    {% if block.type != 'image' and image_carousel_started == true and image_carousel_closed == false %}
-      </div>
-      {% assign image_carousel_closed = true %}
+      {% if block.type != 'image' and image_carousel_started == true and image_carousel_closed == false %}
+        </div>
+        {% assign image_carousel_closed = true %}
     {% endif %}
       {% case block.type %} 
         {% when 'reviews' %}
