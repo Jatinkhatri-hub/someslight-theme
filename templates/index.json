@@ -49,6 +49,18 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/Rectangle_28.png"
           }
+        },
+        "image_carousel_rNDAnE": {
+          "type": "image_carousel",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Rectangle_26.png"
+          }
+        },
+        "image_carousel_nbyrGg": {
+          "type": "image_carousel",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Rectangle_29_1.png"
+          }
         }
       },
       "block_order": [
@@ -57,7 +69,9 @@
         "subheading_L34JYr",
         "image_carousel_3pNi3p",
         "image_carousel_4dHG9h",
-        "image_carousel_ctHLC7"
+        "image_carousel_ctHLC7",
+        "image_carousel_rNDAnE",
+        "image_carousel_nbyrGg"
       ],
       "settings": {
       }
