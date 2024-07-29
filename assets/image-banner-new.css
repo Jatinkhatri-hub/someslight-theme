@@ -52,5 +52,6 @@
 
 .banner__subheading {
   font-size: 1.7rem;
-  padding: 5px 
+  padding: 5px 20px;
+  border-radius: 30px;
 }
