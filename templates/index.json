@@ -9,43 +9,57 @@
 */
 {
   "sections": {
-    "image_banner": {
-      "type": "image-banner",
+    "image_banner_new_VVNxbE": {
+      "type": "image-banner-new",
       "blocks": {
-        "heading": {
-          "type": "heading",
+        "reviews_UgkYxB": {
+          "type": "reviews",
           "settings": {
-            "heading": "Browse our latest products",
-            "heading_size": "h0"
+            "review-text": "Review Text"
           }
         },
-        "button": {
-          "type": "buttons",
+        "heading_RX3VeJ": {
+          "type": "heading",
           "settings": {
-            "button_label_1": "Shop all",
-            "button_link_1": "shopify:\/\/collections\/all",
-            "button_style_secondary_1": true,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
+            "heading": "Heading"
+          }
+        },
+        "subheading_L34JYr": {
+          "type": "subheading",
+          "settings": {
+            "subheading": "Subheading",
+            "subheading_color": "#000000",
+            "background_color": "#ffffff"
+          }
+        },
+        "image_carousel_3pNi3p": {
+          "type": "image_carousel",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Rectangle_29_2.png"
+          }
+        },
+        "image_carousel_4dHG9h": {
+          "type": "image_carousel",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Rectangle_30.png"
+          }
+        },
+        "image_carousel_ctHLC7": {
+          "type": "image_carousel",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Rectangle_28.png"
           }
         }
       },
       "block_order": [
-        "heading",
-        "button"
+        "reviews_UgkYxB",
+        "heading_RX3VeJ",
+        "subheading_L34JYr",
+        "image_carousel_3pNi3p",
+        "image_carousel_4dHG9h",
+        "image_carousel_ctHLC7"
       ],
       "settings": {
-        "image_overlay_opacity": 40,
-        "image_height": "large",
-        "desktop_content_position": "bottom-center",
-        "show_text_box": false,
-        "desktop_content_alignment": "center",
-        "color_scheme": "scheme-3",
-        "image_behavior": "none",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": false,
-        "show_text_below": false
       }
     },
     "featured_collection": {
@@ -78,7 +92,7 @@
     }
   },
   "order": [
-    "image_banner",
+    "image_banner_new_VVNxbE",
     "featured_collection"
   ]
 }
