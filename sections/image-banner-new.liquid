@@ -1,4 +1,4 @@
-{% comment %} {{ 'image-banner-new.css' |  asset_url |  stylesheet_tag }}
+{{ 'image-banner-new.css' |  asset_url |  stylesheet_tag }}
 
 
 <div class="banner__wrapper">
@@ -77,20 +77,20 @@ document.addEventListener('DOMContentLoaded', () => {
     //   delay: 2500,
     //   disableOnInteraction: false,
     // }
-    grabCursor: true,
-    initialSlide: 2,
-    centeredSlides: true,
-    slidesPerView: "auto",
-    spaceBetween: 10,
-    freeMode: false,
-    autoplay: {
-      delay: 5000,
-    },
-    on: {
-      click(e) {
-        swiper.slideTo(this.clickedIndex);
-      },
-    },
+    // grabCursor: true,
+    // initialSlide: 2,
+    // centeredSlides: true,
+    // slidesPerView: "auto",
+    // spaceBetween: 10,
+    // freeMode: false,
+    // autoplay: {
+    //   delay: 5000,
+    // },
+    // on: {
+    //   click(e) {
+    //     swiper.slideTo(this.clickedIndex);
+    //   },
+    // },
   });
 
   // swiper.init();
@@ -100,7 +100,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
 
 </script>
- {% endcomment %}
+
 
 
 
