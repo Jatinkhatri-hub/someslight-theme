@@ -15,21 +15,21 @@
         "reviews_UgkYxB": {
           "type": "reviews",
           "settings": {
-            "review-text": "Review Text"
+            "review-text": "Rated 4.8 By Thousands Of Happy Otakus"
           }
         },
         "heading_RX3VeJ": {
           "type": "heading",
           "settings": {
-            "heading": "Heading"
+            "heading": "Buy 3 Get 1 FREE"
           }
         },
         "subheading_L34JYr": {
           "type": "subheading",
           "settings": {
-            "subheading": "Subheading",
+            "subheading": "Your Favorite Anime Shorts",
             "subheading_color": "#000000",
-            "background_color": "#ffffff"
+            "background_color": "#ffa500"
           }
         },
         "image_carousel_3pNi3p": {
