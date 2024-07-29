@@ -23,7 +23,11 @@
   object-fit: cover;
 }
 
-.banne
+.banner-info__wrapper {
+  display: flex;
+  justify-content: center;
+  
+}
 
 .banner__review-wrapper {
   display: flex;
