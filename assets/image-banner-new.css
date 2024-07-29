@@ -23,4 +23,8 @@
   object-fit: cover;
 }
 
-.banner__re
+.banner__review-wrapper {
+  display: flex;
+  flex-direction: column;
+  
+}
