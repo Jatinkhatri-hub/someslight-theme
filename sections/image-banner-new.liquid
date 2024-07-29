@@ -32,7 +32,7 @@
             {{ block.settings.subheading }}
           </h3>
         {% when 'image_carousel' %}
-          {% if forloop.first %}
+          {% if image_carousel_started %}
             <div class="banner__review-image-carousel">
           {% endif %}
             <div class="banner__review-img-wrapper">
