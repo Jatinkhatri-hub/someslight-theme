@@ -57,13 +57,13 @@
   margin: 0;
 }
 
-.banner__review-image-carousel {
+/* .banner__review-image-carousel {
   display: flex;
   flex-direction: row;
   align-items: center;
   justify-content: center;
   gap: 1rem;
-}
+} */
 
 .banner__review-img-wrapper {
   display: flex;
