@@ -158,7 +158,8 @@ document.addEventListener('DOMContentLoaded', () => {
   const swiperClass = `.mySwiper-{{ section.id }}`;
 
   let swiper = new Swiper(swiperClass, {
-    centeredSlides: false,
+    spaceBetween: 30,
+    centeredSlides: false, // Set to false to avoid centering
     autoplay: {
       delay: 2500,
       disableOnInteraction: false,
@@ -167,7 +168,7 @@ document.addEventListener('DOMContentLoaded', () => {
     slidesPerView: 'auto',
     spaceBetween: 10,
     freeMode: false,
-    initialSlide: 0, 
+    initialSlide: 0, // Ensure it starts from the first slide
     on: {
       click(e) {
         swiper.slideTo(this.clickedIndex);
