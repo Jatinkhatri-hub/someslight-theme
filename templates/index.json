@@ -38,6 +38,12 @@
             "image": "shopify:\/\/shop_images\/Rectangle_26.png"
           }
         },
+        "image_carousel_EnTpY8": {
+          "type": "image_carousel",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Rectangle_30.png"
+          }
+        },
         "image_carousel_BdqKTj": {
           "type": "image_carousel",
           "settings": {
@@ -56,6 +62,7 @@
         "heading_VC4jWG",
         "subheading_YXi7Ed",
         "image_carousel_Mw3fQf",
+        "image_carousel_EnTpY8",
         "image_carousel_BdqKTj",
         "heading_AYhD3M"
       ],
