@@ -4,5 +4,6 @@
 }
 
 .banner__img-wrapper {
-  
+  display: flex;
+  flex-direction: ;
 }
