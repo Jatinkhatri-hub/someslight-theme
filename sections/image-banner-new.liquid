@@ -69,7 +69,12 @@ document.addEventListener('DOMContentLoaded', () => {
   const swiperClass = `.mySwiper-${id}`;
 
   let swiper = new Swiper(swiperClass, {
-    
+    spaceBetween: 30,
+    centeredSlides: true,
+    autoplay: {
+      delay: 2500,
+        disableOnInteraction: false,
+      },
     // grabCursor: true,
     // initialSlide: 2,
     // centeredSlides: true,
