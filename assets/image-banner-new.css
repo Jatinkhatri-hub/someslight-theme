@@ -27,6 +27,7 @@
   display: flex;
   flex-direction: column;
   align-items: center;
+  gap: 1rem;
 }
 
 .banner__review-wrapper {
@@ -47,4 +48,8 @@
   font-weight: 900;
   color: rgb(var(--color-foreground));
   margin: 0;
+}
+
+.banner__subheading {
+  padding: 
 }
