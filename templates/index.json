@@ -23,11 +23,20 @@
           "settings": {
             "heading": "Buy 3 Get 1 FREE"
           }
+        },
+        "subheading_YXi7Ed": {
+          "type": "subheading",
+          "settings": {
+            "subheading": "Your Favorite Anime Shorts",
+            "subheading_color": "#ffffff",
+            "background_color": "#ffa500"
+          }
         }
       },
       "block_order": [
         "reviews_ABxF9g",
-        "heading_VC4jWG"
+        "heading_VC4jWG",
+        "subheading_YXi7Ed"
       ],
       "settings": {
         "banner_image": "shopify:\/\/shop_images\/someslight-banner.png"
