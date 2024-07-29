@@ -31,7 +31,15 @@
             {{ block.settings.subheading }}
           </h3>
         {% when 'image_carousel' %}
-          {}
+          {% if forloop.first %}
+            <div class="banner__review-image-carousel">
+          {% endif %}
+            <div class="banner__review-img-wrapper">
+              <img src="{{ block.settings.image |  img_url: 'medium' }}" class="banner__review-img" >
+            </div>
+          {% if forloop.first %}
+            </div>
+          {% endif %}
       {% endcase %}
     {% endfor %}
 
