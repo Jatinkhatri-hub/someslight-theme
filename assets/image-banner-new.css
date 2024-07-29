@@ -62,6 +62,7 @@
   flex-direction: row;
   align-items: center;
   justify-content: center;
+  gap: 1rem;
 }
 
 .banner__review-img-wrapper {
