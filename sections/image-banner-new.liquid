@@ -37,7 +37,7 @@
             <div class="banner__review-img-wrapper">
               <img src="{{ block.settings.image |  img_url: 'medium' }}" class="banner__review-img" >
             </div>
-          {% if forloop.first %}
+          {% if forloop.last %}
             </div>
           {% endif %}
       {% endcase %}
