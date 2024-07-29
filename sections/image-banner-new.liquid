@@ -158,27 +158,21 @@ document.addEventListener('DOMContentLoaded', () => {
   const swiperClass = `.mySwiper-{{ section.id }}`;
 
   let swiper = new Swiper(swiperClass, {
-    initialSlide: 0, // Ensure it starts from the first slide
+    centeredSlides: false, // Set to false to avoid centering
     autoplay: {
       delay: 2500,
       disableOnInteraction: false,
     },
-    // spaceBetween: 30,
-    // centeredSlides: false, // Set to false to avoid centering
-    // autoplay: {
-    //   delay: 2500,
-    //   disableOnInteraction: false,
-    // },
-    // grabCursor: true,
-    // slidesPerView: 'auto',
-    // spaceBetween: 10,
-    // freeMode: false,
-    // initialSlide: 0, // Ensure it starts from the first slide
-    // on: {
-    //   click(e) {
-    //     swiper.slideTo(this.clickedIndex);
-    //   },
-    // },
+    grabCursor: true,
+    slidesPerView: 'auto',
+    spaceBetween: 10,
+    freeMode: false,
+    initialSlide: 0, // Ensure it starts from the first slide
+    on: {
+      click(e) {
+        swiper.slideTo(this.clickedIndex);
+      },
+    },
   });
 });
 </script>
