@@ -31,12 +31,26 @@
             "subheading_color": "#000000",
             "background_color": "#ffa500"
           }
+        },
+        "image_carousel_Mw3fQf": {
+          "type": "image_carousel",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Rectangle_26.png"
+          }
+        },
+        "image_carousel_BdqKTj": {
+          "type": "image_carousel",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Rectangle_28.png"
+          }
         }
       },
       "block_order": [
         "reviews_ABxF9g",
         "heading_VC4jWG",
-        "subheading_YXi7Ed"
+        "subheading_YXi7Ed",
+        "image_carousel_Mw3fQf",
+        "image_carousel_BdqKTj"
       ],
       "settings": {
         "banner_image": "shopify:\/\/shop_images\/someslight-banner.png"
