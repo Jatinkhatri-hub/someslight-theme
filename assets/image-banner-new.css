@@ -2,7 +2,7 @@
   width: 100%;
   position: relative;
 }
-/* 
+
 .banner__img-wrapper {
   display: flex;
   justify-content: center;
@@ -16,7 +16,7 @@
   bottom: 0;
   object-fit: cover;
   overflow: hidden;
-} */
+}
 
 .banner__img {
   width: 100%;
