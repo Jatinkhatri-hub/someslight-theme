@@ -2,10 +2,10 @@
 
 
 <div class="banner__wrapper">
-  {% comment %} <div class="banner__img-wrapper">
+   <div class="banner__img-wrapper">
     
     {{ section.settings.banner_image | image_url: width: section.settings.image.width | image_tag: sizes: sizes, widths: '200,300,400,500,600,700,800,900,1000,1200,1400,1600,1800,2000,2200,2400,2600,2800,3000,3200', class: "banner__img" }}
-  </div> {% endcomment %}
+  </div> 
   <div class="banner-info__wrapper">
     {% assign image_carousel_started = false %}
     {% assign image_carousel_closed = false %}
@@ -45,10 +45,6 @@
             {{ block.settings.subheading }}
           </h3>
         {% when 'image_carousel' %}
-          {% comment %} {% if image_carousel_started == false %}
-            <div class="banner__review-image-carousel">
-            {% assign image_carousel_started = true %}
-          {% endif %} {% endcomment %}
             <div class="banner__review-img-wrapper swiper-slide">
               <img src="{{ block.settings.image |  img_url: 'medium' }}" class="banner__review-img" >
             </div>
