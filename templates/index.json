@@ -11,6 +11,17 @@
   "sections": {
     "image_banner_new_8TagPh": {
       "type": "image-banner-new",
+      "blocks": {
+        "reviews_ABxF9g": {
+          "type": "reviews",
+          "settings": {
+            "review-text": "Rated 4.8 By Thousands Of Happy Otakus"
+          }
+        }
+      },
+      "block_order": [
+        "reviews_ABxF9g"
+      ],
       "settings": {
         "banner_image": "shopify:\/\/shop_images\/someslight-banner.png"
       }
