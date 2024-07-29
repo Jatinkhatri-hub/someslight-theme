@@ -82,7 +82,9 @@
   object-fit: cover;
 }
 
+.swiper
+
 .swiper-slide {
   width: 200px !important;
-  height: 200px;
+  height: 200px !important;
 }
