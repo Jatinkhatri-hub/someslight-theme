@@ -39,5 +39,5 @@
 .banner__review-text {
   font-size: 1.2rem;
   line-height: 1.8rem;
-  color: rgb()
+  color: rgb(var(--color-foreground));
 }
