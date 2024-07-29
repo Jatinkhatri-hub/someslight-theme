@@ -66,5 +66,7 @@
 
 .banner__review-img-wrapper {
   display: flex;
-  flex
+  justify-content: center;
+  align-items: center;
+  
 }
