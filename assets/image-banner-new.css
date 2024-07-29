@@ -83,6 +83,6 @@
 }
 
 .swiper-slide {
-  width: 200px;
+  width: 200px !important;
   height: 200px;
 }
