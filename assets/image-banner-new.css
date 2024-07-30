@@ -138,6 +138,11 @@
     height: 260px;
   }
 
+  .banner__review-img {
+    width: 260px;
+    height: 260px;
+  }
+
 
   .swiper-slide {
     width: 260px !important;
