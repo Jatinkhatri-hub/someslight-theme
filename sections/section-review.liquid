@@ -1,5 +1,14 @@
 {{ 'section-review-auto.css' | asset_url | stylesheet_tag }}
 
+<style>
+
+  .mySwiper-{{ section.id }} swiper-slide {
+    width: 200px !important;
+    height: 200px !important;
+  }
+
+</style>
+
 <div class="review-auto__wrapper">
   <div class="review-auto__header">
     <h1 class="review-auto__title poppins-black">{{ section.settings.title }}</h1>
@@ -38,14 +47,7 @@
 
 </div>
 
-<style>
 
-  .mySwiper-{{ section.id }} swiper-slide {
-    width: 200px !important;
-    height: 200px !important;
-  }
-
-</style>
 
 
 
