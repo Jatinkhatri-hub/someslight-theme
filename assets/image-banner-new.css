@@ -102,4 +102,6 @@
 .banner__value-point {
   display: flex;
   align-items: center;
+  justify-content: center;
+  
 }
