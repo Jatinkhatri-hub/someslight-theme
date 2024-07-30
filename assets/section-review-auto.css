@@ -125,7 +125,10 @@
     height: 300px;
   }
 
-  .review-aut
+  .review-auto__img {
+    width: 240px;
+    height: 300px;
+  }
 
   .review-auto__info {
     width: 320px;
