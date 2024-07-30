@@ -9,4 +9,7 @@
 
 .review-manual__img-wrapper {
   display: flex;
+  justify-content: center;
+  align-items: center;
+  width: ;
 }
