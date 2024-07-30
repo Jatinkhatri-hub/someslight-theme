@@ -9,12 +9,12 @@
     <div class="swiper-wrapper">
       {% for block in section.blocks %}
         {% case block.type %}
-        {% when 'review_card' %}
-        <div class="review-auto__card">
-          <div class="review-auto__img-wrapper">
-            <img src="">
-          </div>
-        </div>
+          {% when 'review_card' %}
+            <div class="review-auto__card">
+              <div class="review-auto__img-wrapper">
+                <img src="">
+              </div>
+            </div>
         {% endcase %}
 
       {% endfor %}
