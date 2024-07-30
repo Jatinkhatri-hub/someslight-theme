@@ -181,8 +181,9 @@
         "review_card_GUhtnX": {
           "type": "review_card",
           "settings": {
-            "name": "Name",
-            "description": "Lorem ipsum dolor sit amet"
+            "image": "shopify:\/\/shop_images\/gum-gum-review-6.png",
+            "name": "Tiger W.",
+            "description": "These shorts are awesome. They’re everything I expected. Very comfortable and stylish, what more could I want?"
           }
         },
         "review_card_q68z6d": {
