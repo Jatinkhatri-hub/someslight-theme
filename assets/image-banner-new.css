@@ -149,7 +149,9 @@
     height: 20px;
   }
 
-  .banner__reviews
+  .banner__review-text {
+    font-size: 1.6rem;
+  }
 
   .banner__review-img-wrapper {
     width: 260px;
