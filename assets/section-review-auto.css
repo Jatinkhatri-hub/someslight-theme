@@ -61,7 +61,10 @@
   flex-direction: column;
   justify-content: center;
   align-items: baseline;
+  gap: .6rem;
 }
+
+
 
 
 
