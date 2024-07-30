@@ -139,6 +139,7 @@
         "value_point_RdqcfK",
         "button_WhpgJn"
       ],
+      "disabled": true,
       "settings": {
         "banner_image": "shopify:\/\/shop_images\/someslight-banner.png"
       }
@@ -153,12 +154,38 @@
             "name": "Max K.",
             "description": "These shorts are awesome. They’re everything I expected. Very comfortable and stylish, what more could I want?"
           }
+        },
+        "review_card_3CdeNb": {
+          "type": "review_card",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/gum-gum-review-2.png",
+            "name": "Mario G.",
+            "description": "Was skeptical at first but tbh good shorts, not see threw, overall good only complain is the string felt not soo good but it’s a solid 4.5\/5 stars tbh"
+          }
+        },
+        "review_card_pwxqci": {
+          "type": "review_card",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Rectangle_30.png",
+            "name": "Matthew R.",
+            "description": "The amount I have should tell you about the comfortability of these shorts. 10\/10 would buy again and will. Thank you!🙌🏼"
+          }
+        },
+        "review_card_aTaEgr": {
+          "type": "review_card",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/gum-gum-review-6.png",
+            "name": "Max K.",
+            "description": "These shorts are awesome. They’re everything I expected. Very comfortable and stylish, what more could I want?"
+          }
         }
       },
       "block_order": [
-        "review_card_EpRzTB"
+        "review_card_EpRzTB",
+        "review_card_3CdeNb",
+        "review_card_pwxqci",
+        "review_card_aTaEgr"
       ],
-      "disabled": true,
       "settings": {
         "title": "Loved By 3,000+ Happy Otakus ",
         "description": "Hear what thousands of satisfied customers have to say."
