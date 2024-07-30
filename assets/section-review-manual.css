@@ -93,6 +93,7 @@
   position: relative;
   left: 85px;
   bottom: -13px;
+  z-index: 12;
 }
 
 .swiper-button-next:after, .swiper-button-prev:after {
