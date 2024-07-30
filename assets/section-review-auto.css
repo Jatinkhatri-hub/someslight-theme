@@ -64,7 +64,7 @@
   justify-content: center;
   align-items: baseline;
   gap: .6rem;
-  padding-block: 4rem;
+  /* padding-block: 4rem; */
   background: #F3F3F3;
 }
 
@@ -77,6 +77,7 @@
   font-size: 1.4rem;
   text-align: start;
   color: #212121;
+  ma
 }
 
 .review-auto__name {
