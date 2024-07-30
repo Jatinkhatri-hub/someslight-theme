@@ -1,4 +1,6 @@
 .review-auto__wrapper {
   display: flex;
-  justify-content: c;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }
