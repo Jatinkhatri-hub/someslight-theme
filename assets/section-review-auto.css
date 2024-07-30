@@ -1,1 +1,4 @@
-.review-auto
+.review-auto__wrapper {
+  display: flex;
+  justify-content: c;
+}
