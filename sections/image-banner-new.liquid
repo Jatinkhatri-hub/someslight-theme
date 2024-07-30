@@ -64,6 +64,10 @@
             {% render 'icon-right' %}
             <span class="poppins-regular">{{ block.settings.value_point_text }}</span>
           </div>
+        {% when 'button' %}
+          <button src="{{ block.settings.button_url }}" class="banner__btn poppins-bold" style="color: {{ block.settings.text_color }}; background: {{ block.settings.background_color }} ">
+            {{ block.settings.button_text }}
+          </button>
       {% endcase %}
     {% endfor %}
     {% if image_carousel_started and image_carousel_closed == false %}
@@ -201,7 +205,20 @@ document.addEventListener('DOMContentLoaded', () => {
           "type": "url",
           "id": "button_url",
           "label": "Button Url"
+        },
+        {
+          "type": "color",
+          "id": "text_color",
+          "label": "Text Color",
+          "default": "#ffffff"
+        },
+        {
+          "type": "color",
+          "id": "button_background",
+          "label": "Background Color",
+          "default": "#000000"
         }
+        
       ]
     }
   ],
