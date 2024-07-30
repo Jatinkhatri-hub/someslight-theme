@@ -6,7 +6,7 @@
   justify-content: center;
   align-items: center;
   border-radius: 25px;
-  background: #;
+  background: #fff;
 }
 
 .review-manual__img-wrapper {
@@ -18,7 +18,7 @@
   object-fit: cover;
   overflow: hidden;
   border-radius: 18px;
-  border-radius: 2px solid #000;
+  border: 2px solid #000;
 }
 
 .review-manual__img {
