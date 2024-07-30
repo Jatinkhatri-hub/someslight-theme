@@ -5,6 +5,8 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  border-radius: 24px;
+  
 }
 
 .review-manual__img-wrapper {
