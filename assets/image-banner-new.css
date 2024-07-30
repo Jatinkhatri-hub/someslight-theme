@@ -128,6 +128,10 @@
   margin-top: .5rem;
 }
 
+.banner__btn {
+  display: none;
+}
+
 @media screen and (min-width: 789px) {
 
   .swiper {
@@ -208,8 +212,6 @@
     height: 260px !important;
   }
 
-  .banner__btn {
-    display: none;
-  }
+  
   
 }
