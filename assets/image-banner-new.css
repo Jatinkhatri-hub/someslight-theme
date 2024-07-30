@@ -93,10 +93,10 @@
   width: 100%;
 }
 
-.swiper-slide {
+/* .swiper-slide {
   width: 200px !important;
   height: 200px !important;
-}
+} */
 
 /* .swiper-slide {
   animation: scroll 20s linear infinite;
