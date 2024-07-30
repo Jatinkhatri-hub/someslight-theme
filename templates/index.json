@@ -146,6 +146,19 @@
     },
     "section_review_QNBmrn": {
       "type": "section-review",
+      "blocks": {
+        "review_card_EpRzTB": {
+          "type": "review_card",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Rectangle_29_2.png",
+            "name": "Max K.",
+            "description": "These shorts are awesome. They’re everything I expected. Very comfortable and stylish, what more could I want?"
+          }
+        }
+      },
+      "block_order": [
+        "review_card_EpRzTB"
+      ],
       "settings": {
         "title": "Loved By 3,000+ Happy Otakus ",
         "description": "Hear what thousands of satisfied customers have to say."
