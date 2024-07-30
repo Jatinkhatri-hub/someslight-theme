@@ -56,4 +56,6 @@
   height: 10px;
 }
 
-.review-manual__verified-badge 
+.review-manual__verified-badge svg path {
+  width: ;
+}
