@@ -144,7 +144,9 @@
     flex-direction: row;
   }
 
-  .review
+  .review-star__wrapper svg{
+    
+  }
 
   .banner__review-img-wrapper {
     width: 260px;
