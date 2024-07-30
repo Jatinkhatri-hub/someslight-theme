@@ -20,7 +20,8 @@
   overflow: hidden;
   border-radius: 18px;
   border: 2px solid #000;
-  
+  position: absolute;
+  top: 70px;
 }
 
 .review-manual__img {
