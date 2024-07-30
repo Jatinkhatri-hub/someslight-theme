@@ -18,5 +18,8 @@
 
 .review-manual__img {
   width: 260px;
-  height: ;
+  height: 165px;
+  object-fit: cover;
 }
+
+.re
