@@ -182,7 +182,7 @@
 
   .banner__heading {
     font-size: 5rem;
-    padding-inline: 10rem;
+    margin-inline: 10rem;
   }
 
   .banner__subheading {
