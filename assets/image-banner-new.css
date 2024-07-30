@@ -99,4 +99,7 @@
   padding-inline: 2.5rem;
 }
 
-.
+.banner__value-point {
+  display: flex;
+  align-items: center;
+}
