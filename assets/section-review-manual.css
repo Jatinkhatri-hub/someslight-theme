@@ -8,6 +8,7 @@
   border-radius: 25px;
   background: #fff;
   margin-top: 13rem;
+  margin-bottom: ;
 }
 
 .review-manual__img-wrapper {
@@ -70,4 +71,31 @@
 
 .review-manual__verified-badge svg path {
   fill: #414141;
+}
+
+.swiper-btn {
+  display: flex !important;
+  width: 35px;
+  height: 35px;
+  border-radius: 50%;
+  background-color: #000;
+  color: white;
+  justify-content: center;
+  align-items: center;
+}
+
+.swiper-button-next {
+  position: relative;
+  right: -250px
+}
+
+.swiper-button-prev {
+  position: relative;
+  left: 85px;
+  bottom: -13px;
+}
+
+.swiper-button-next:after, .swiper-button-prev:after {
+  font-size: 14px;
+  font-weight: 900;
 }
