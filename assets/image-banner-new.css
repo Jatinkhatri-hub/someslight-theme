@@ -147,7 +147,7 @@
   }
 
   .banner__img {
-    display: none;
+    display: flex;
   }
 
   .banner-info__wrapper {
@@ -216,9 +216,7 @@
     display: flex;
   }
 
-  .banner__img {
-    display: flex;
-  }
+  
   
   
 }
