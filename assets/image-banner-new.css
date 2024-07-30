@@ -93,5 +93,7 @@
 
 .banner__value-point-wrapper {
   display: flex;
-  flex-direction: ;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 15rem
 }
