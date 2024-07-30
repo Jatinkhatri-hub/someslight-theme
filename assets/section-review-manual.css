@@ -39,7 +39,7 @@
   height: 270px;
   margin-top: 13rem;
   padding-block: 3rem;
-  bo
+  gap: 1rem;
 }
 
 .review-manual__star-wrapper svg {
