@@ -114,6 +114,10 @@
     font-size: 1.8rem;
   }
 
+  .review-auto__card {
+    width: ;
+  }
+
   .review-auto__star-wrapper svg {
     width: 27px;
     height: 27px;
