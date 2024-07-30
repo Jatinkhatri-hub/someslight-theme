@@ -39,6 +39,37 @@
 </div>
 
 
+
+{{ 'https://unpkg.com/swiper/swiper-bundle.min.js' | script_tag }}
+
+<script>
+document.addEventListener('DOMContentLoaded', () => {
+  const swiperClass = `.mySwiper-{{ section.id }}`;
+
+  let swiper = new Swiper(swiperClass, {
+    centeredSlides: true, // Set to false to avoid centering
+    loop: true,
+    autoplay: {
+      delay: 0,
+      disableOnInteraction: false,
+    },
+    grabCursor: true,
+    slidesPerView: 'auto',
+    spaceBetween: 10,
+    freeMode: true,
+    speed: 10000,
+    initialSlide: 0, // Ensure it starts from the first slide
+    on: {
+      click(e) {
+        swiper.slideTo(this.clickedIndex);
+      },
+    },
+  });
+});
+</script>
+
+
+
 {% schema %}
   {
     "name": "Review Autoplay",
