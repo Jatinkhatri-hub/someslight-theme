@@ -109,7 +109,9 @@
   }
 
 
-  .s
+  .swiper-button-next {
+    right: -615;
+  }
 
   .swiper-button-next:after, .swiper-button-prev:after {
     font-size: 20px;
