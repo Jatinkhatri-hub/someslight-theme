@@ -123,8 +123,9 @@
 @media screen and (min-width: 789px) {
 
   .swiper {
-    position: absolute;
+    position: absolute !important;
     bottom: -300px;
+
   }
 
   .banner__wrapper {
