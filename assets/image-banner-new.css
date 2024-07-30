@@ -134,7 +134,10 @@
   }
 
   .banner-info__wrapper {
-    height: ;
+    height: 700px;
+    justify-content: center;
+    align-items: baseline;
+    padding
   }
 
   .banner__review-img-wrapper {
