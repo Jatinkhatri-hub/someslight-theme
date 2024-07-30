@@ -115,8 +115,11 @@
   }
 
   .review-auto__card {
-    width: ;
+    width: 620px;
+    height: 300px;
   }
+
+  .
 
   .review-auto__star-wrapper svg {
     width: 27px;
