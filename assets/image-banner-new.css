@@ -23,6 +23,7 @@
   height: 700px;
   object-fit: cover;
   z-index: -1;
+  display: none;
 }
 
 .banner-info__wrapper {
