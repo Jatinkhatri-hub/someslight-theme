@@ -219,10 +219,10 @@
   }
 
 
-  .banner__review-image-carousel {
+  /* .banner__review-image-carousel {
     position: absolute !important;
-    bottom: ;
-  }
+    bottom: -150px;
+  } */
 
   .banner__btn {
     display: flex;
