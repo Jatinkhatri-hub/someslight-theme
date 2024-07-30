@@ -206,7 +206,11 @@
       "settings": {
         "title": "Loved By 3,000+ Happy Otakus ",
         "description": "Hear what thousands of satisfied customers have to say.",
-        "reverse_check": true
+        "reverse_check": true,
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "padding_top": 36,
+        "padding_bottom": 0
       }
     },
     "section_review_Qa4yKW": {
@@ -272,7 +276,11 @@
       "settings": {
         "title": "",
         "description": "",
-        "reverse_check": false
+        "reverse_check": false,
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 36
       }
     },
     "featured_collection": {
