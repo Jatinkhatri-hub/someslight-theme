@@ -93,7 +93,7 @@
 
 .banner__value-point-wrapper {
   display: grid;
-  grid-template-columns: repeat(2);
+  grid-template-columns: repeat(2, min);
   /* flex-direction: row;
   flex-wrap: wrap; */
   gap: 2.5rem;
