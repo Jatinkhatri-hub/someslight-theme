@@ -15,7 +15,7 @@
       position: absolute !important;
       bottom: -150px;
     }
-    
+
     .mySwiper-{{ section.id }} .swiper-slide {
       width: 260px !important;
       height: 260px !important;
@@ -122,7 +122,14 @@ document.addEventListener('DOMContentLoaded', () => {
     grabCursor: true,
     slidesPerView: 'auto',
     spaceBetween: 10,
-    freeMode: true,
+    freeMode: {
+      enabled: true,
+      momentum: false,
+      momentumBounce: false,
+      momentumRatio: 0,
+      momentumVelocityRatio: 0,
+      sticky: false,
+    },
     speed: 10000,
     initialSlide: 0, // Ensure it starts from the first slide
     on: {
