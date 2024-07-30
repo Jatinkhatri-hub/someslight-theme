@@ -161,7 +161,9 @@
     font-size: 2rem;
   }
 
-  .bra
+  .banner__value-point-wrapper {
+    padding: 0;
+  }
 
   .banner__value-point {
     grid-template-columns: 20px 260px;
