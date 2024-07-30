@@ -101,7 +101,7 @@
   fill: #414141;
 }
 
-@media screen {
+@media screen and (min-width: 789px) {
   
 }
 
