@@ -106,32 +106,7 @@
   fill: #414141;
 }
 
-.swiper-btn {
-  display: flex !important;
-  width: 35px;
-  height: 35px;
-  border-radius: 50%;
-  background-color: #000;
-  color: white;
-  justify-content: center;
-  align-items: center;
-}
 
-.swiper-button-next {
-  position: relative;
-  right: -250px
-}
-
-.swiper-button-prev {
-  position: relative;
-  left: 85px;
-  bottom: -14px;
-}
-
-.swiper-button-next:after, .swiper-button-prev:after {
-  font-size: 14px;
-  font-weight: 900;
-}
 
 @media screen and (min-width: 789px) {
   .review-auto__title {
