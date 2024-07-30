@@ -91,4 +91,7 @@
   height: 200px !important;
 }
 
-.banner__value-point-
+.banner__value-point-wrapper {
+  display: flex;
+  flex-direction: ;
+}
