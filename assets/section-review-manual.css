@@ -55,6 +55,7 @@
   color: #414141;
   display: flex;
   align-items: center;
+  flex-direction: row;
 }
 
 .review-manual__verified-badge svg {
