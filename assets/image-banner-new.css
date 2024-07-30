@@ -193,6 +193,7 @@
 
   .banner__value-point-wrapper {
     padding: 0;
+    margin-inline: 10rem;
   }
 
   .banner__value-point {
