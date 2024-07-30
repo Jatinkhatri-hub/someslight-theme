@@ -191,6 +191,72 @@
         "reverse_check": true
       }
     },
+    "section_review_Qa4yKW": {
+      "type": "section-review",
+      "blocks": {
+        "review_card_MiyFJr": {
+          "type": "review_card",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Rectangle_29_2.png",
+            "name": "Max K.",
+            "description": "These shorts are awesome. They’re everything I expected. Very comfortable and stylish, what more could I want?"
+          }
+        },
+        "review_card_TAg49P": {
+          "type": "review_card",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/gum-gum-review-5.png",
+            "name": "Jame M.",
+            "description": "These shorts are awesome. They’re everything I expected. Very comfortable and stylish, what more could I want?"
+          }
+        },
+        "review_card_fCkHRi": {
+          "type": "review_card",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/8HwmOFGCa_orig.jpg",
+            "name": "Chris J.",
+            "description": "These shorts are awesome. They’re everything I expected. Very comfortable and stylish, what more could I want?"
+          }
+        },
+        "review_card_k8BFMX": {
+          "type": "review_card",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/gum-gum-review-4.png",
+            "name": "Mark B.",
+            "description": "These shorts are awesome. They’re everything I expected. Very comfortable and stylish, what more could I want?"
+          }
+        },
+        "review_card_KHMmMr": {
+          "type": "review_card",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/gum-gum-review-2.png",
+            "name": "Mario G.",
+            "description": "These shorts are awesome. They’re everything I expected. Very comfortable and stylish, what more could I want?"
+          }
+        },
+        "review_card_pDfAYt": {
+          "type": "review_card",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/gum-gum-review-6.png",
+            "name": "Mattew P.",
+            "description": "These shorts are awesome. They’re everything I expected. Very comfortable and stylish, what more could I want?"
+          }
+        }
+      },
+      "block_order": [
+        "review_card_MiyFJr",
+        "review_card_TAg49P",
+        "review_card_fCkHRi",
+        "review_card_k8BFMX",
+        "review_card_KHMmMr",
+        "review_card_pDfAYt"
+      ],
+      "settings": {
+        "title": "",
+        "description": "",
+        "reverse_check": false
+      }
+    },
     "featured_collection": {
       "type": "featured-collection",
       "settings": {
@@ -223,6 +289,7 @@
   "order": [
     "image_banner_new_3kFqbm",
     "section_review_QNBmrn",
+    "section_review_Qa4yKW",
     "featured_collection"
   ]
 }
