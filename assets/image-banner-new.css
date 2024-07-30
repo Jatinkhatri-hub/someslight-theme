@@ -92,9 +92,10 @@
 }
 
 .banner__value-point-wrapper {
-  display: flex;
-  flex-direction: row;
-  flex-wrap: wrap;
+  display: grid;
+  gr
+  /* flex-direction: row;
+  flex-wrap: wrap; */
   gap: 2.5rem;
   padding-inline: 2.5rem;
 }
