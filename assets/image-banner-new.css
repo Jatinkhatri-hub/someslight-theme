@@ -133,7 +133,10 @@
     height: 700px;
   }
 
-  .re
+  .banner__review-img-wrapper {
+    width: 260px;
+    height: 260px;
+  }
 
 
   .swiper-slide {
