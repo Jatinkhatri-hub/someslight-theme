@@ -126,7 +126,8 @@
   }
 
   .review-auto__info {
-    wi
+    width: 320px;
+    height: ;
   }
 
   .review-auto__star-wrapper svg {
