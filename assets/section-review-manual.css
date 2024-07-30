@@ -7,6 +7,7 @@
   align-items: center;
   border-radius: 25px;
   background: #fff;
+  margin-top: 13rem;
 }
 
 .review-manual__img-wrapper {
@@ -19,6 +20,7 @@
   overflow: hidden;
   border-radius: 18px;
   border: 2px solid #000;
+  
 }
 
 .review-manual__img {
