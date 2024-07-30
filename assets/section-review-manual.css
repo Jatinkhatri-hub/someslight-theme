@@ -27,5 +27,6 @@
   justify-content: baseline;
   align-items: space-around;
   flex-direction: column;
-  
+  width: 260px;
+  height: ;
 }
