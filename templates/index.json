@@ -65,7 +65,25 @@
         "value_point_kPbqPw": {
           "type": "value_point",
           "settings": {
-            "value_point_text": ""
+            "value_point_text": "Made With Premium Fabric"
+          }
+        },
+        "value_point_8XMaYz": {
+          "type": "value_point",
+          "settings": {
+            "value_point_text": "Chic & Unique Designs"
+          }
+        },
+        "value_point_UEDBxP": {
+          "type": "value_point",
+          "settings": {
+            "value_point_text": "Perfect Blend Of Anime & Fashion"
+          }
+        },
+        "value_point_RdqcfK": {
+          "type": "value_point",
+          "settings": {
+            "value_point_text": "Lorem ipsum dolor sit amet"
           }
         }
       },
@@ -78,7 +96,10 @@
         "image_carousel_bELcQe",
         "image_carousel_pfzHxD",
         "image_carousel_6Mhaq7",
-        "value_point_kPbqPw"
+        "value_point_kPbqPw",
+        "value_point_8XMaYz",
+        "value_point_UEDBxP",
+        "value_point_RdqcfK"
       ],
       "settings": {
       }
