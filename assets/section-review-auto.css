@@ -79,8 +79,9 @@
   color: #414141;
 }
 
-.review-auto__verified-badge {
-  width: 
+.review-auto__verified-badge svg {
+  width: 10px;
+  height: 10px;
 }
 
 
