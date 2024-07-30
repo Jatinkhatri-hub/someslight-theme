@@ -219,6 +219,7 @@
 
   .banner__btn {
     display: flex;
+    margin-inline: 10rem;
   }
 
   
