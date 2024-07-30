@@ -80,6 +80,12 @@
             "image": "shopify:\/\/shop_images\/8HwmOFGCa_orig.jpg"
           }
         },
+        "image_carousel_fUGYi8": {
+          "type": "image_carousel",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/gum-gum-review-2.png"
+          }
+        },
         "value_point_kPbqPw": {
           "type": "value_point",
           "settings": {
@@ -126,6 +132,7 @@
         "image_carousel_AaQAN4",
         "image_carousel_6iE6h6",
         "image_carousel_zFXexy",
+        "image_carousel_fUGYi8",
         "value_point_kPbqPw",
         "value_point_8XMaYz",
         "value_point_UEDBxP",
