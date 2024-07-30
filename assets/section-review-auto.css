@@ -65,6 +65,7 @@
   align-items: baseline;
   gap: .6rem;
   padding-block: 4rem;
+  background: #F3F3F3;
 }
 
 .review-auto__card-description {
