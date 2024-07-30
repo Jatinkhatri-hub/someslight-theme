@@ -114,7 +114,8 @@
   background-color: #000;
   color: white;
   justify-content: center;
-  
+  align-items: center;
+  position: initial;
 }
 
 @media screen and (min-width: 789px) {
