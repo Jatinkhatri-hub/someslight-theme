@@ -157,6 +157,10 @@
     font-size: 5rem;
   }
 
+  .banner__subheading {
+    font-size: 20rem;
+  }
+
   .banner__review-img-wrapper {
     width: 260px;
     height: 260px;
