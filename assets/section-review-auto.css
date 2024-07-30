@@ -124,7 +124,8 @@
 
 .swiper-button-prev {
   position: relative;
-  left: 85;
+  left: 85px;
+  bottom: -14px;
 }
 
 .swiper-button-next:after, .swiper-button-prev:after {
