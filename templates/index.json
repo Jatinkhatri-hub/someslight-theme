@@ -187,7 +187,8 @@
       ],
       "settings": {
         "title": "Loved By 3,000+ Happy Otakus ",
-        "description": "Hear what thousands of satisfied customers have to say."
+        "description": "Hear what thousands of satisfied customers have to say.",
+        "reverse_check": true
       }
     },
     "featured_collection": {
