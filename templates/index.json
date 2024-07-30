@@ -296,15 +296,51 @@
             "name": "Max K.",
             "description": "Was skeptical at first but tbh good shorts, not see threw, material is decent, stretchy, overall good only complain is the string felt not soo good but it’s a solid 4.5\/5 stars tbh"
           }
+        },
+        "review_card_MaK3QM": {
+          "type": "review_card",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/gum-gum-review-4.png",
+            "name": "Jame K.",
+            "description": "The amount I have should tell you about the comfortability of these shorts. 10\/10 would buy again and will. Thank you!🙌🏼"
+          }
+        },
+        "review_card_FXVTwC": {
+          "type": "review_card",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/gum-gum-review-6.png",
+            "name": "Tom W.",
+            "description": "The amount I have should tell you about the comfortability of these shorts. 10\/10 would buy again and will. Thank you!🙌🏼"
+          }
+        },
+        "review_card_fXBRpk": {
+          "type": "review_card",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/8HwmOFGCa_orig.jpg",
+            "name": "Greg H.",
+            "description": "The amount I have should tell you about the comfortability of these shorts. 10\/10 would buy again and will. Thank you!🙌🏼"
+          }
+        },
+        "review_card_MUWdwj": {
+          "type": "review_card",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Rectangle_30.png",
+            "name": "Matthew R.",
+            "description": "These shorts are awesome. They’re everything I expected. Very comfortable and stylish, what more could I want?"
+          }
         }
       },
       "block_order": [
-        "review_card_mFcYmT"
+        "review_card_mFcYmT",
+        "review_card_MaK3QM",
+        "review_card_FXVTwC",
+        "review_card_fXBRpk",
+        "review_card_MUWdwj"
       ],
       "settings": {
         "title": "Loved By 3,000+ Happy Otakus ",
         "description": "Hear what thousands of satisfied customers have to say.",
-        "section_color_scheme": "scheme-5",
+        "section_color_scheme": "scheme-2",
         "color_scheme": "scheme-2",
         "padding_top": 36,
         "padding_bottom": 36
