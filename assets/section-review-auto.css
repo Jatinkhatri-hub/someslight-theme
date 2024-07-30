@@ -122,7 +122,10 @@
   right: -250px
 }
 
-.s
+.swiper-button-prev {
+  position: relative;
+  left: -250px;
+}
 
 .swiper-button-next:after, .swiper-button-prev:after {
   font-size: 14px;
