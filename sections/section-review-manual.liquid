@@ -59,8 +59,13 @@
   </div>
 </div>
 
-{{ 'https://unpkg.com/swiper/swiper-bundle.min.js' | script_tag }}
 
+<script>
+
+
+{% comment %} 
+{{ 'https://unpkg.com/swiper/swiper-bundle.min.js' | script_tag }} {% endcomment %}
+{% comment %} 
 <script>
 
 // document.addEventListener('DOMContentLoaded', function() {
@@ -106,7 +111,7 @@
 // });
 
 
-// </script>
+// </script> {% endcomment %}
 
 {% schema %}
   {
