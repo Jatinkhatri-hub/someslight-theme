@@ -122,8 +122,9 @@
 
 @media screen and (min-width: 789px) {
 
-  .banner-info__wrapper {
-    
+  .swiper {
+    position: absolute;
+    bottom: ;
   }
   
 }
