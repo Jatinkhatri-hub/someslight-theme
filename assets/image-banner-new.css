@@ -163,7 +163,7 @@
     flex-direction: row;
     align-items: center;
     gap: 1rem;
-    padding-in;
+    padding-inline: 10rem;
   }
 
   .review-star__wrapper {
@@ -182,6 +182,7 @@
 
   .banner__heading {
     font-size: 5rem;
+    padding-inline: 10rem;
   }
 
   .banner__subheading {
