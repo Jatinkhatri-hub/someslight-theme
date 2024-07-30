@@ -142,6 +142,8 @@
 
   .banner__review-wrapper {
     flex-direction: row;
+    align-items: center;
+    gap: 1rem;
   }
 
   .review-star__wrapper svg {
