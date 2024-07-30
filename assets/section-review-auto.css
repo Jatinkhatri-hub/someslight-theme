@@ -90,6 +90,9 @@
 .review-auto__verified-badge {
   font-size: 1rem;
   color: #414141;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .review-auto__verified-badge svg {
@@ -115,7 +118,7 @@
   }
 
 
-  
+
   .review-auto__verified-badge svg {
     width: 13px;
     height: 13px;
