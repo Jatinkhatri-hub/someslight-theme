@@ -49,6 +49,7 @@
 .review-manual__description {
   font-size: 1.4rem;
   text-align: start;
+  margin: 0;
 }
 
 .review-manual__name {
