@@ -117,6 +117,10 @@
   align-items: center;
 }
 
+.swiper-button-next {
+  position: relative;
+}
+
 .swiper-button-next:after, .swiper-button-prev:after {
   font-size: 14px;
   font-weight: 900;
