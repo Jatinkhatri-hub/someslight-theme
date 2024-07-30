@@ -103,7 +103,7 @@
 .banner__value-point {
   display: grid;
   grid-template-columns: 20px 135px;
-  align-items: center;
+  align-items: f;
   justify-content: center;
   gap: .8rem;
   font-size: 1.6rem;
