@@ -25,6 +25,7 @@
 .review-manual__info {
   display: flex;
   justify-content: baseline;
-  align-items: space-between;
+  align-items: space-around;
+  flex-direction: column;
   
 }
