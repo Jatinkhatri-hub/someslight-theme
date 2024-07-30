@@ -141,7 +141,7 @@
   }
 
   .banner-review__wrapper {
-    height: ;
+    flex-direction: row;
   }
 
   .banner__review-img-wrapper {
