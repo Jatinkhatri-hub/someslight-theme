@@ -105,4 +105,5 @@
   justify-content: center;
   gap: .8rem;
   font-size: 1.6rem;
+  flex-wrap: wrap;
 }
