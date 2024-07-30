@@ -177,13 +177,30 @@
             "name": "Max K.",
             "description": "These shorts are awesome. They’re everything I expected. Very comfortable and stylish, what more could I want?"
           }
+        },
+        "review_card_GUhtnX": {
+          "type": "review_card",
+          "settings": {
+            "name": "Name",
+            "description": "Lorem ipsum dolor sit amet"
+          }
+        },
+        "review_card_q68z6d": {
+          "type": "review_card",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/8HwmOFGCa_orig.jpg",
+            "name": "Raj S.",
+            "description": "These shorts are awesome. They’re everything I expected. Very comfortable and stylish, what more could I want?"
+          }
         }
       },
       "block_order": [
         "review_card_EpRzTB",
         "review_card_3CdeNb",
         "review_card_pwxqci",
-        "review_card_aTaEgr"
+        "review_card_aTaEgr",
+        "review_card_GUhtnX",
+        "review_card_q68z6d"
       ],
       "settings": {
         "title": "Loved By 3,000+ Happy Otakus ",
