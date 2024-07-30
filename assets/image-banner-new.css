@@ -100,12 +100,15 @@
   padding-inline: 2.5rem;
 }
 
+
 .banner__value-point {
   display: grid;
   grid-template-columns: 20px 135px;
-  align-items: f;
+  align-items: flex-start;
   justify-content: center;
   gap: .8rem;
   font-size: 1.6rem;
   flex-wrap: wrap;
 }
+
+.banner
