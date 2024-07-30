@@ -132,5 +132,11 @@
     margin-bottom: 15rem;
     height: 700px;
   }
+
+
+  .swiper-slide {
+    width: 260px !important;
+    height: 260px !important;
+  }
   
 }
