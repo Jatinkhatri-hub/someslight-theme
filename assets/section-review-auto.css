@@ -115,7 +115,11 @@
   color: white;
   justify-content: center;
   align-items: center;
-  position: initial;
+}
+
+.swiper-button-next:after, .swiper-button-prev:after {
+  font-size: 14px;
+  font-weight: 900;
 }
 
 @media screen and (min-width: 789px) {
