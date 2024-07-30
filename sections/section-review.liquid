@@ -65,7 +65,7 @@ document.addEventListener('DOMContentLoaded', () => {
       sticky: false,
     },
     speed: 5000,
-    loopAdditionalSlides: 5, // Ensure it starts from the first
+    initialSlide: 0, // Ensure it starts from the first slide
     on: {
       click(e) {
         swiper.slideTo(this.clickedIndex);
