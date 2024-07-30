@@ -68,7 +68,10 @@
   background: #F3F3F3;
 }
 
-.review-auto
+.review-auto__star-wrapper svg {
+  width: 20px;
+  height: 20px;
+}
 
 .review-auto__card-description {
   font-size: 1.4rem;
