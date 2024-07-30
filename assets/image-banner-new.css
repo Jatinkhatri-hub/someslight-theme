@@ -160,7 +160,10 @@
   .banner__subheading {
     font-size: 2rem;
   }
-  
+
+  .banner__value-point {
+    
+  }
 
   .banner__review-img-wrapper {
     width: 260px;
