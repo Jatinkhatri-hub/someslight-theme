@@ -9,12 +9,13 @@
   }
 
   /* .swiper  { */
-  .mySwiper-{{ section.id }} {}
-    position: absolute !important;
-    bottom: -150px;
-  }
-
+  
   @media screen and (min-width: 789px) {
+    .mySwiper-{{ section.id }} {
+      position: absolute !important;
+      bottom: -150px;
+    }
+    
     .mySwiper-{{ section.id }} .swiper-slide {
       width: 260px !important;
       height: 260px !important;
