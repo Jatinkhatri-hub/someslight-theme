@@ -32,8 +32,8 @@
 
 .review-manual__info {
   display: flex;
-  justify-content: baseline;
-  align-items: space-around;
+  justify-content: space-evenly;
+  align-items: center;
   flex-direction: column;
   width: 260px;
   height: 270px;
