@@ -27,7 +27,9 @@
             {% case block.type %}
               {% when 'review_card' %}
                 <div class="review-manual__card">
-                  <div class="review-manual__img-wrapper"></div>
+                  <div class="review-manual__img-wrapper">
+                    <img src="{{ block.settings.image }}">
+                  </div>
                 </div>
             {% endcase %}
           {% endfor %}
