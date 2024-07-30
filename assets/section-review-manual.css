@@ -22,4 +22,9 @@
   object-fit: cover;
 }
 
-.review
+.review-manual__info {
+  display: flex;
+  justify-content: baseline;
+  align-items: center;
+  jsu
+}
