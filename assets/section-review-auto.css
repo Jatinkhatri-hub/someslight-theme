@@ -64,7 +64,10 @@
   gap: .6rem;
 }
 
-.review-a
+.review-auto__card-description {
+  font-size: 1.4rem;
+  
+}
 
 
 
