@@ -7,4 +7,6 @@
   align-items: center;
 }
 
-.review-manual
+.review-manual__img-wrapper {
+  display: flex;
+}
