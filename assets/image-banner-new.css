@@ -216,7 +216,9 @@
     display: flex;
   }
 
-  .banner__img {}
+  .banner__img {
+    display: flex;
+  }
   
   
 }
