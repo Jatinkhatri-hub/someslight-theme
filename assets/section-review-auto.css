@@ -31,5 +31,8 @@
 .review-auto__card {
   width: 430px;
   height: 230px;
+  display: flex;
+  flex-direction: row;
+  justify-content:;
 }
 
