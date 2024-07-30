@@ -5,6 +5,7 @@
   <div class="banner-info__wrapper">
     {% assign image_carousel_started = false %}
     {% assign image_carousel_closed = false %}
+    
 
     {% for block in section.blocks %}
       {% if block.type == 'image_carousel' and image_carousel_started == false %}
@@ -159,7 +160,7 @@ document.addEventListener('DOMContentLoaded', () => {
         {
           "type": "text",
           "id": "value_point_text",
-          "label": "Va"
+          "label": "Text"
         }
       ]
     }
