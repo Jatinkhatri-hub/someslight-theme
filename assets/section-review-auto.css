@@ -84,7 +84,9 @@
   height: 10px;
 }
 
-.review-auto__verified-badge svg
+.review-auto__verified-badge svg path {
+  fill: #414141;
+}
 
 
 
