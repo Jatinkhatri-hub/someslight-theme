@@ -1,7 +1,7 @@
 .banner__wrapper {
   width: 100%;
   position: relative;
-  padding-block: ;
+  padding-block: 2rem;
 }
 
 .banner__img-wrapper {
@@ -80,6 +80,7 @@
   border-radius: 6px;
   overflow: hidden;
   object-fit: cover;
+  padding-block: 1rem;
 }
 
 .banner__review-img {
