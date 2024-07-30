@@ -142,6 +142,10 @@
     padding-inline: 10rem ;
   }
 
+  .banner__img {
+    display: none;
+  }
+
   .banner-info__wrapper {
     height: 700px;
     justify-content: center;
