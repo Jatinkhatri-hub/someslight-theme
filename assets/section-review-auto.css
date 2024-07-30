@@ -16,9 +16,11 @@
 .review-auto__title {
   font-size: 2.6rem;
   text-align: center;
+  margin: 0;
 }
 
 .review-auto__description {
   font-size: 1.4rem;
   text-align: center;
+  margin: 0;
 }
