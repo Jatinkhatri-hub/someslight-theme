@@ -33,6 +33,7 @@
   height: 230px;
   display: flex;
   flex-direction: row;
+  overflow: hidden;
 }
 
 .review-auto__img-wrapper {
@@ -43,5 +44,10 @@
   height: 230px;
   object-fit: cover;
   overflow: hidden;
+}
+
+.review-auto__img {
+  width: 180px;
+  height: ;
 }
 
