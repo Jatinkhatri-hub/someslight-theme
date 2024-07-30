@@ -114,7 +114,10 @@
     font-size: 1.8rem;
   }
 
-  .review-
+  .review-auto__verified-badge svg {
+    width: 13px;
+    height: 13px;
+  }
 
   .review-auto__verified-badge {
     font-size: 1.5rem;
