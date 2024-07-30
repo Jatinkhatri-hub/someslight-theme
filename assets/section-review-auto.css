@@ -69,7 +69,9 @@
   text-align: start;
 }
 
-.review
+.review-auto__name {
+  font-size: 1.;
+}
 
 
 
