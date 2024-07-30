@@ -144,6 +144,13 @@
         "banner_image": "shopify:\/\/shop_images\/someslight-banner.png"
       }
     },
+    "section_review_QNBmrn": {
+      "type": "section-review",
+      "settings": {
+        "title": "Loved By 3,000+ Happy Otakus ",
+        "description": "Hear what thousands of satisfied customers have to say."
+      }
+    },
     "featured_collection": {
       "type": "featured-collection",
       "settings": {
@@ -175,6 +182,7 @@
   },
   "order": [
     "image_banner_new_3kFqbm",
+    "section_review_QNBmrn",
     "featured_collection"
   ]
 }
