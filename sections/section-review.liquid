@@ -40,14 +40,10 @@
 </div>
 
 
-
-
-
-
 {{ 'https://unpkg.com/swiper/swiper-bundle.min.js' | script_tag }}
 
 <script>
-document.addEventListener('DOMContentLoaded', () => {
+  document.addEventListener('DOMContentLoaded', () => {
   const swiperClass = `.mySwiper-{{ section.id }}`;
 
   let swiper = new Swiper(swiperClass, {
@@ -77,9 +73,8 @@ document.addEventListener('DOMContentLoaded', () => {
       },
     },
   });
-});
+  });
 </script>
-
 
 
 {% schema %}
@@ -96,6 +91,11 @@ document.addEventListener('DOMContentLoaded', () => {
         "id": "description",
         "label": "Paragraph",
         "default": "Lorem ipsum dolor sit amet"
+      }, {
+        "type": "checkbox",
+        "id": "reverse_check",
+        "label": "Reverse Scroll",
+        "default": false
       }
     ],
     "blocks": [
@@ -117,12 +117,6 @@ document.addEventListener('DOMContentLoaded', () => {
             "id": "description",
             "label": "Description",
             "default": "Lorem ipsum dolor sit amet"
-          }
-          ,{
-            "type": "checkbox",
-            "id": "reverse_check",
-            "label": "Reverse Scroll",
-            "default": false
           }
         ]
       }
