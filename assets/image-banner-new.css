@@ -144,7 +144,7 @@
   .banner__wrapper {
     margin-bottom: 15rem;
     height: 700px;
-    padding-inline: 10rem ;
+    /* padding-inline: 10rem ; */
   }
 
   .banner__img {
@@ -163,6 +163,7 @@
     flex-direction: row;
     align-items: center;
     gap: 1rem;
+    p
   }
 
   .review-star__wrapper {
