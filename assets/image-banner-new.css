@@ -139,13 +139,14 @@
   .banner__wrapper {
     margin-bottom: 15rem;
     height: 700px;
+    padding-inline: ;
   }
 
   .banner-info__wrapper {
     height: 700px;
     justify-content: center;
     align-items: baseline;
-    padding-inline: 10rem;
+    /* padding-inline: 10rem; */
     gap: 2rem;
   }
 
