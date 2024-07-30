@@ -108,7 +108,8 @@
 
 .swiper-btn {
   display: flex !important;
-  width: ;
+  width: 35px;
+  height: 35px;
 }
 
 @media screen and (min-width: 789px) {
