@@ -145,8 +145,11 @@
   }
 
   .review-star__wrapper svg {
-    width: ;
+    width: 20px;
+    height: 20px;
   }
+
+  .banner_-reivews
 
   .banner__review-img-wrapper {
     width: 260px;
