@@ -286,6 +286,30 @@
         "padding_bottom": 36
       }
     },
+    "section_review_manual_tM4Wbe": {
+      "type": "section-review-manual",
+      "blocks": {
+        "review_card_mFcYmT": {
+          "type": "review_card",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Rectangle_29_2.png",
+            "name": "Max K.",
+            "description": "These shorts are awesome. They’re everything I expected. Very comfortable and stylish, what more could I want?"
+          }
+        }
+      },
+      "block_order": [
+        "review_card_mFcYmT"
+      ],
+      "settings": {
+        "title": "Loved By 3,000+ Happy Otakus ",
+        "description": "Hear what thousands of satisfied customers have to say.",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "featured_collection": {
       "type": "featured-collection",
       "settings": {
@@ -319,6 +343,7 @@
     "image_banner_new_3kFqbm",
     "section_review_QNBmrn",
     "section_review_Qa4yKW",
+    "section_review_manual_tM4Wbe",
     "featured_collection"
   ]
 }
