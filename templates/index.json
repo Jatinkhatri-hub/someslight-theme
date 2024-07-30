@@ -62,6 +62,24 @@
             "image": "shopify:\/\/shop_images\/Rectangle_29_1.png"
           }
         },
+        "image_carousel_AaQAN4": {
+          "type": "image_carousel",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/gug-gum-review-1.png"
+          }
+        },
+        "image_carousel_6iE6h6": {
+          "type": "image_carousel",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/gum-gum-review-6.png"
+          }
+        },
+        "image_carousel_zFXexy": {
+          "type": "image_carousel",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/8HwmOFGCa_orig.jpg"
+          }
+        },
         "value_point_kPbqPw": {
           "type": "value_point",
           "settings": {
@@ -90,7 +108,9 @@
           "type": "button",
           "settings": {
             "button_text": "Button",
-            "button_url": ""
+            "button_url": "",
+            "text_color": "#ffffff",
+            "button_background": "#000000"
           }
         }
       },
@@ -103,6 +123,9 @@
         "image_carousel_bELcQe",
         "image_carousel_pfzHxD",
         "image_carousel_6Mhaq7",
+        "image_carousel_AaQAN4",
+        "image_carousel_6iE6h6",
+        "image_carousel_zFXexy",
         "value_point_kPbqPw",
         "value_point_8XMaYz",
         "value_point_UEDBxP",
