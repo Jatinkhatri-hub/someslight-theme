@@ -47,5 +47,7 @@
 }
 
 .review-manual__verified-badge {
-  font-size: ;
+  font-size: 1rem;
+  color: #414141;
+  
 }
