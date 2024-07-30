@@ -13,5 +13,9 @@
   align-items: center;
   width: 260px;
   height: 165px;
-  object-fit: c;
+  object-fit: cover;
+}
+
+.review-manual__img {
+  
 }
