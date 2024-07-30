@@ -16,6 +16,7 @@
   height: 165px;
   object-fit: cover;
   overflow: hidden;
+  border-radius: ;
 }
 
 .review-manual__img {
