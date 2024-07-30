@@ -121,7 +121,7 @@
   border: none;
   outline: none;
   font-size: 1.8rem;
-
+  border-radius: 75px;
 }
 
 .banner__value-point svg {
