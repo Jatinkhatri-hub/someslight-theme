@@ -219,7 +219,9 @@
   }
 
 
-  .banner__review-image-c
+  .banner__review-image-carousel {
+    position: absolute!
+  }
 
   .banner__btn {
     display: flex;
